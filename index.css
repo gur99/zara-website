@@ -1,0 +1,66 @@
+img {
+    /*border: 1px solid gray;*/
+    width: 30%;
+    height: 30%;
+    margin: 1.6%;
+
+}
+
+
+
+body {
+    border: 2px solid black;
+
+}
+
+
+div {
+    font-family: 'Bebas Neue', cursive;
+    font-weight: bold;
+    font-size: 1.5em;
+    padding: 1.2em 0;
+    border-bottom: 2px solid #f1f1f1;
+    width: 30%;
+    margin-left: 1.6%;
+}
+
+#first {
+    color: brown;
+    text-align: center;
+}
+
+#about-div {
+    text-align: center;
+}
+
+/*
+nav {
+    font-family: 'Bebas Neue', cursive;
+    font-weight: bold;
+    font-size: 1.5em;
+    padding: 1.2em 0;
+    border-bottom: 2px solid #f1f1f1;
+    width: 30%;
+    margin-left: 1.6%;
+    text-align: center;
+}
+*/
+
+h1 {
+    text-align: center;
+    font-weight: 700;
+    font-size: 100px;
+    color: brown;
+    letter-spacing: 15px;
+    font-family: monospace;
+    border: 2px solid black;
+    padding: 20px;
+}
+
+h2 {
+    text-align: left;
+    font-size: 25px;
+    color: black;
+    font-family: monospace;
+    padding-left: 20px;
+}
