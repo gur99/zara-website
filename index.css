@@ -3,7 +3,12 @@ img {
     width: 30%;
     height: 30%;
     margin: 1.6%;
+}
 
+#logo {
+    width: 12%;
+    height: 12%;
+    margin: 1.2%;
 }
 
 
@@ -11,6 +16,17 @@ img {
 body {
     border: 2px solid black;
 
+}
+
+ul {
+    font-family: 'Bebas Neue', cursive;
+    font-weight: bold;
+    font-size: 1.5em;
+    margin-left: 1.6%;
+    /* padding: 1.2em 0;
+    border-bottom: 2px solid #f1f1f1;
+    width: 30%;
+    */
 }
 
 
@@ -29,9 +45,7 @@ div {
     text-align: center;
 }
 
-#about-div {
-    text-align: center;
-}
+
 
 /*
 nav {
@@ -45,6 +59,17 @@ nav {
     text-align: center;
 }
 */
+
+.midle {
+    font-family: 'Bebas Neue', cursive;
+    font-weight: bold;
+    font-size: 1.5em;
+    padding: 1.2em 0;
+    border-bottom: 2px solid #f1f1f1;
+    width: 30%;
+    text-align: center;
+    margin-left: auto;
+}
 
 h1 {
     text-align: center;
@@ -63,4 +88,16 @@ h2 {
     color: black;
     font-family: monospace;
     padding-left: 20px;
+}
+
+h3 {
+    font-size: 20px;
+    text-align: center;
+    color: black;
+    font-family: monospace;
+}
+
+p {
+    width: 100%;
+    text-align: center;
 }
