@@ -15,6 +15,7 @@ img {
 
 body {
     border: 2px solid black;
+    text-align: center;
 
 }
 
@@ -23,6 +24,7 @@ ul {
     font-weight: bold;
     font-size: 1.5em;
     margin-left: 1.6%;
+    text-align: left;
     /* padding: 1.2em 0;
     border-bottom: 2px solid #f1f1f1;
     width: 30%;
@@ -69,6 +71,26 @@ nav {
     width: 30%;
     text-align: center;
     margin-left: auto;
+}
+
+span {
+    color: white;
+    background-color: brown;
+}
+
+td img {
+    width: 30%;
+    height: 30%;
+    margin: 1.6%;
+}
+
+table {
+    margin: auto;
+}
+
+td {
+    padding: auto;
+    text-align: center;
 }
 
 h1 {
