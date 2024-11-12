@@ -1,8 +1,6 @@
 img {
     /*border: 1px solid gray;*/
-    width: 30%;
-    height: 30%;
-    margin: 1.6%;
+    width: 300px;
 }
 
 #logo {
@@ -15,7 +13,7 @@ img {
 
 body {
     border: 2px solid black;
-    text-align: center;
+
 
 }
 
@@ -35,63 +33,28 @@ ul {
 div {
     font-family: 'Bebas Neue', cursive;
     font-weight: bold;
-    font-size: 1.5em;
-    padding: 1.2em 0;
-    border-bottom: 2px solid #f1f1f1;
+    padding: 15px;
     width: 30%;
-    margin-left: 1.6%;
-}
-
-#first {
-    color: brown;
-    text-align: center;
+    margin: auto;
 }
 
 
-
-/*
-nav {
-    font-family: 'Bebas Neue', cursive;
-    font-weight: bold;
-    font-size: 1.5em;
-    padding: 1.2em 0;
-    border-bottom: 2px solid #f1f1f1;
-    width: 30%;
-    margin-left: 1.6%;
-    text-align: center;
-}
-*/
-
-.midle {
-    font-family: 'Bebas Neue', cursive;
-    font-weight: bold;
-    font-size: 1.5em;
-    padding: 1.2em 0;
-    border-bottom: 2px solid #f1f1f1;
-    width: 30%;
-    text-align: center;
-    margin-left: auto;
-}
 
 span {
     color: white;
     background-color: brown;
 }
 
-td img {
-    width: 30%;
-    height: 30%;
-    margin: 1.6%;
-}
 
-table {
-    margin: auto;
-}
 
+table,
 td {
-    padding: auto;
+    margin: auto;
+    width: 50%;
+    padding: 2px;
     text-align: center;
 }
+
 
 h1 {
     text-align: center;
@@ -105,6 +68,15 @@ h1 {
 }
 
 h2 {
+    text-align: left;
+    font-size: 25px;
+    color: white;
+    font-family: monospace;
+    padding-left: 20px;
+    background-color: black;
+}
+
+h4 {
     text-align: left;
     font-size: 25px;
     color: black;
